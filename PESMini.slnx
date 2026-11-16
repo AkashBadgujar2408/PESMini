@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="PESMini.Api/PESMini.Api.csproj" />
+  <Project Path="PESMini.Core/PESMini.Core.csproj" />
+</Solution>
